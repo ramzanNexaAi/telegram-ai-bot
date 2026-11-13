@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.db
+__pycache__/
+*.pyc
+bot_backup.py
+bot_before_ai_upgrade.py
+=1.12
